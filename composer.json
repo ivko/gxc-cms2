@@ -1,0 +1,10 @@
+{
+    "name": "ivko/gxc-cms2",
+    "description": "forked from nganhtuan63/GXC-CMS-2",
+    "authors": [
+        {
+            "name": "Tuan Nguyen <nganhtuan63@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
